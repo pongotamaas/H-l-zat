@@ -14,8 +14,8 @@ A tesztelés során a következő eszközökkel dolgoztam:
 - **Mobiltelefon**: Ezzel csatlakoztam a Linksys routerhez, hogy a laptop és a többi eszköz között pingelni tudjak.
 - **ThinkPad laptop**: A teszteléshez használt számítógép, amelyről a ping tesztek és egyéb parancsok futtak.
 ## 1. A számítógép IP beállításainak lekérdezése
-Parancs: [<span style="color: blue; font-weight: bold;">ipconfig</span]
-Parancs: [<span style="color: blue; font-weight: bold;">`ipconfig /release`</span>] 
+Parancs: [<span style="color: blue; font-weight: bold;">ipconfig`</span>]
+
 
 
   
