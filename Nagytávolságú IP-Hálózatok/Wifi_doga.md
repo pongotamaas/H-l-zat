@@ -9,14 +9,13 @@ Ez a jegyzőkönyv a Linksys router beállítását és a hozzá kapcsolódó h�
 
 ## Eszközök
 A tesztelés során a következő eszközökkel dolgoztam:
-- **Catalyst 2950 switch**: A hálózati eszközök közötti kapcsolatot biztosította.
-- **Linksys router**: A hálózat központi irányítószerveként szerepelt.
-- **ThinkPad laptop**: A teszteléshez használt számítógép, amelyről a ping tesztek és egyéb parancsok futtak.
+- **Linksys router**: A hálózat központi irányítósz
+- **Catalyst 2950 switch**: A hálózati eszközök közötti kapcsolatot biztosította.erveként szerepelt.
 - **Mobiltelefon**: Ezzel csatlakoztam a Linksys routerhez, hogy a laptop és a többi eszköz között pingelni tudjak.
+- **ThinkPad laptop**: A teszteléshez használt számítógép, amelyről a ping tesztek és egyéb parancsok futtak.
 ## 1. A számítógép IP beállításainak lekérdezése
 Parancs: `ipconfig`
-<details>
-  <summary>Kép megtekintése</summary>
+
 
   
 
