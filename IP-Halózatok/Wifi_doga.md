@@ -16,20 +16,24 @@ A tesztelés során a következő eszközökkel dolgoztam:
   
 ## 1. A számítógép IP beállításainak lekérdezése
 Parancs: [<span style="color: blue; font-weight: bold;">ipconfig`</span>]
+
 ![ipconfig](https://github.com/user-attachments/assets/b7428cb1-9ced-4501-8741-fca4f0b760b9)
 
 
 ## 2. Az aktuális IP-cím eldobása
 Parancs: [<span style="color: blue; font-weight: bold;">`ipconfig /release`</span>]
+
 ![ipconfig-release](https://github.com/user-attachments/assets/956a0833-6965-48e5-939a-1e3ffce41234)
 
 ## 3. Új IP-cím kérése
 Parancs: [<span style="color: blue; font-weight: bold;">`ipconfig /renew`</span>]
+
 ![iprenew](https://github.com/user-attachments/assets/2a9aa41a-58ee-43ea-9ce2-cd4f21bbfae8)
 
 
 ## 4. A routing tábla megjelenítése
 Parancs: [<span style="color: blue; font-weight: bold;">`netstat -a`</span>]
+
 ![netstat-a](https://github.com/user-attachments/assets/03b46189-a225-438f-853e-0408ac570a68)
 
 
@@ -46,29 +50,43 @@ Parancs: [<span style="color: blue; font-weight: bold;">`tracert www.ipon.hu`</s
 ## 7. Használt portok listázása
 Parancs: [<span style="color: blue; font-weight: bold;">`netstat -f`</span>]
 
+![netstat-an](https://github.com/user-attachments/assets/53112123-18cd-4d5d-9ac8-52afe4e053af)
+
 
 ## 8. Hálózati kapcsolatok megjelenítése
-Parancs: [<span style="color: blue; font-weight: bold;">`netsh interface show interface`</span>]
+Parancs: [<span style="color: blue; font-weight: bold;">`netstat`</span>]
+
+![netstat](https://github.com/user-attachments/assets/e0eacd81-ae8a-4e3e-877f-f10accce9544)
 
 
 ## 9. DNS-beállítások aktualizálása
 Parancs: [<span style="color: blue; font-weight: bold;">`ipconfig /flushdns`</span>]
+
 ![flushdns](https://github.com/user-attachments/assets/f4716a5a-b0fc-4b65-bb03-1e1bd89438b6)
 
 ## 10. Csatolt hálózati meghajtók megjelenítése
 Parancs: [<span style="color: blue; font-weight: bold;">`net use`</span>]
+
 ![netuse](https://github.com/user-attachments/assets/86297e9f-c176-48e4-bf32-f1f7a8519a92)
 
 ## 11. A www.ipon.hu tartománynév és IP-cím megjelenítése
 Parancs: [<span style="color: blue; font-weight: bold;">`nslookup www.ipon.hu`</span>]
+
 ![nslookpup-ip](https://github.com/user-attachments/assets/27eda2c6-eb41-47b1-accc-ed797fb96dfd)
 
 
 ## 12. Telefon rákapcsolódva a Wi-Fi-re
 
+![ip-telefon](https://github.com/user-attachments/assets/00f5fbe6-64cb-443e-9036-3c5853d2f0cc)
+
+
 ## 13. Telefon pingelése laptopról
+
+![telefon-ping](https://github.com/user-attachments/assets/f47026b3-27da-4f73-989f-995e4ca93c0c)
+
 
 ## 14. Router konfigurációk
 
-
-## Összegzés
+![ipconfig01](https://github.com/user-attachments/assets/65ce858d-4024-4b9f-a8c5-6c4d0c1c6348)
+![ipconfig02](https://github.com/user-attachments/assets/4f4501cc-c52a-4dba-ba54-16697f25cb65)
+![ipconfig03](https://github.com/user-attachments/assets/77a719e9-63c8-4a6b-9d63-1c7978adf6df)
