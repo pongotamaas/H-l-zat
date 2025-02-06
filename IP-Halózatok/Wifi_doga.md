@@ -23,13 +23,13 @@ Parancs: [<span style="color: blue; font-weight: bold;">ipconfig`</span>]
 
 
 ## 2. Az aktuális IP-cím eldobása
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`ipconfig /release`</span>]
+Parancs: [<span style="color: blue; font-weight: bold;">`ipconfig /release`</span>]
 
 
 
 
 ## 3. Új IP-cím kérése
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`ipconfig /renew`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`ipconfig /renew`</span>]
 
 
 
@@ -38,37 +38,37 @@ Parancs: [<span style="color: #00FF00; font-weight: bold;">`ipconfig /renew`</sp
 
 
 ## 4. A routing tábla megjelenítése
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`netstat -a`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`netstat -a`</span>]
 
 
 ## 5. A microsoft.com szerver elérhetőségének tesztelése
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`ping microsoft.com`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`ping microsoft.com`</span>]
 
 
 ## 6. Az www.ipon.hu szerver felé vezető útvonal lekövetése
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`tracert www.ipon.hu`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`tracert www.ipon.hu`</span>]
 
 
 
 ## 7. Használt portok listázása
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`netstat -f`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`netstat -f`</span>]
 
 
 ## 8. Hálózati kapcsolatok megjelenítése
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`netsh interface show interface`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`netsh interface show interface`</span>]
 
 
 ## 9. DNS-beállítások aktualizálása
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`ipconfig /flushdns`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`ipconfig /flushdns`</span>]
 
 
 
 ## 10. Csatolt hálózati meghajtók megjelenítése
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`net use`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`net use`</span>]
 
 
 ## 11. A www.ipon.hu tartománynév és IP-cím megjelenítése
-Parancs: [<span style="color: #00FF00; font-weight: bold;">`nslookup www.ipon.hu`</span>]
+Parancs: [<span style="color: #blue; font-weight: bold;">`nslookup www.ipon.hu`</span>]
 
 
 ## 12. Telefon rákapcsolódva a Wi-Fi-re
