@@ -20,125 +20,58 @@ Parancs: `ipconfig`
 
   
 
-</details>
+
 
 ## 2. Az aktuális IP-cím eldobása
 Parancs: `ipconfig /release`
-<details>
-
-  <summary>Kép megtekintése</summary>
 
 
-</details>
+
 
 ## 3. Új IP-cím kérése
 Parancs: `ipconfig /renew`
-<details>
-
-  <summary>Kép megtekintése</summary>
 
 
-</details>
+
+
+
+
 
 ## 4. A routing tábla megjelenítése
 Parancs: `netstat -a`
-<details>
-
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 5. A microsoft.com szerver elérhetőségének tesztelése
 Parancs: `ping microsoft.com`
-<details>
 
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 6. Az www.ipon.hu szerver felé vezető útvonal lekövetése
 Parancs: `tracert www.ipon.hu`
-<details>
 
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 7. Használt portok listázása
 Parancs: `netstat -f`
-<details>
 
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 8. Hálózati kapcsolatok megjelenítése
 Parancs: `netsh interface show interface`
-<details>
 
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 9. DNS-beállítások aktualizálása
 Parancs: `ipconfig /flushdns`
-<details>
 
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 10. Csatolt hálózati meghajtók megjelenítése
 Parancs: `net use`
-<details>
 
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 11. A www.ipon.hu tartománynév és IP-cím megjelenítése
 Parancs: `nslookup www.ipon.hu`
-<details>
-
-  <summary>Kép megtekintése</summary>
-
-
-</details>
 
 ## 12. Telefon rákapcsolódva a Wi-Fi-re
-<details>
-  <summary>Kép megtekintése</summary>
-
-</details>
 
 ## 13. Telefon pingelése laptopról
-<details>
-  <summary>Kép megtekintése</summary>
-
-</details>
 
 ## 14. Router konfigurációk
-<details>
-  <summary>Kép megtekintése</summary>
 
-</details>
-
-<details>
-  <summary>Kép megtekintése</summary>
-
-</details>
-
-<details>
-
-  <summary>Kép megtekintése</summary>
-
-</details>
 
 ## Összegzés
