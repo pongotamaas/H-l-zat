@@ -22,7 +22,7 @@ Parancs: `ipconfig`
 
 
 ## 2. Az aktuális IP-cím eldobása
-Parancs: `ipconfig /release`
+Parancs: [<span style="color: #00FF00; font-weight: bold;">`ipconfig /release`</span>] `ipconfig /release`
 
 
 
