@@ -9,8 +9,8 @@ Ez a jegyzőkönyv a Linksys router beállítását és a hozzá kapcsolódó h�
 
 ## Eszközök
 A tesztelés során a következő eszközökkel dolgoztam:
-- **Linksys router**: A hálózat központi irányítósz
-- **Catalyst 2950 switch**: A hálózati eszközök közötti kapcsolatot biztosította.erveként szerepelt.
+- **Linksys router**: A hálózat központi irányítószerveként szerepelt.
+- **Catalyst 2950 switch**: A hálózati eszközök közötti kapcsolatot biztosította.
 - **Mobiltelefon**: Ezzel csatlakoztam a Linksys routerhez, hogy a laptop és a többi eszköz között pingelni tudjak.
 - **ThinkPad laptop**: A teszteléshez használt számítógép, amelyről a ping tesztek és egyéb parancsok futtak.
   
@@ -90,3 +90,12 @@ Parancs: [<span style="color: blue; font-weight: bold;">`nslookup www.ipon.hu`</
 ![ipconfig01](https://github.com/user-attachments/assets/65ce858d-4024-4b9f-a8c5-6c4d0c1c6348)
 ![ipconfig02](https://github.com/user-attachments/assets/4f4501cc-c52a-4dba-ba54-16697f25cb65)
 ![ipconfig03](https://github.com/user-attachments/assets/77a719e9-63c8-4a6b-9d63-1c7978adf6df)
+
+## 15. Speedtest
+
+![speedtest](https://github.com/user-attachments/assets/0827e7e9-d0d1-4558-bf09-9b55962605fe)
+
+## 16. Wifi Analyzer
+
+![IMG_3707](https://github.com/user-attachments/assets/c34f3edf-6b26-4456-a8bf-d65341aac65c)
+
